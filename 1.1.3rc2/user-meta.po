@@ -1,0 +1,2320 @@
+# Copyright (C) 2013 User Meta http://user-meta.com
+# This file is distributed under the same license as the User Meta package.
+msgid ""
+msgstr ""
+"Project-Id-Version: User Meta Pro 1.1.3rc2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-11 14:49+0600\n"
+"PO-Revision-Date: 2013-01-11 14:49+0600\n"
+"Last-Translator: \n"
+"Language-Team: User Meta Pro <support@user-meta.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /Users/saikat/www/wp/wp-content/plugins/user-meta\n"
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFieldsController.php:18
+msgid "User Meta Fields Editor"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFieldsController.php:18
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:11
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:6
+msgid "Fields Editor"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFieldsController.php:87
+msgid "Fields Successfully Saved."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFormsController.php:17
+msgid "User Meta Forms Editor"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFormsController.php:17
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:14
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:6
+msgid "Forms Editor"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFormsController.php:79
+msgid "All form keys are required!"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFormsController.php:81
+#, php-format
+msgid "Form key should be unique. \"%s\" is duplicated!"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umFormsController.php:93
+msgid "Form Successfully saved."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umPreloadsController.php:102
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:28
+msgid "Profile"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umPreloadsController.php:152
+#, php-format
+msgid ""
+"There is a new version of %1$s available. <a href=\"%2$s\">update "
+"automatically</a>."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umPreloadsController.php:222
+msgid "Security Check"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umSettingsController.php:14
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:8
+msgid "User Meta Settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umSettingsController.php:14
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:17
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:24
+msgid "Settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umSettingsController.php:107
+msgid "Settings Successfully Saved."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umShortcodesController.php:43
+#, php-format
+msgid "type=\"%s\" is invalid."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/umVersionUpdateController.php:47
+msgid "Upgrading from free version to pro version"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:21
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/emailNotificationPage.php:7
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:8
+msgid "E-mail Notification"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:92
+#, php-format
+msgid ""
+"To reset your password, please visit the following address: \\r\\n\\r\\n %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:147
+#, php-format
+msgid "Password: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:154
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:160
+#, php-format
+msgid "Email verification url: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:157
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umEmailNotificationController.php:162
+#, php-format
+msgid "Activation url: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:15
+msgid "Export & Import"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:52
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:135
+msgid "CSV file not found for import!"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:137
+msgid "There is some error while importing."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:141
+msgid "Email field should be selected as any field."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:144
+msgid "Username field should be selected as any field."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umExportImportController.php:147
+msgid "Email and Username field should be selected as any field."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:15
+msgid "User Meta Registration/Profile Form"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:16
+msgid "Show user registration or profile form as widget"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:90
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:85
+msgid "Guest Title:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:93
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:88
+msgid "Only guest user can see this title"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:99
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:94
+msgid "Logged-In User Title:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:102
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:97
+msgid "Only logged-in user can see this title"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:108
+msgid "Action Type:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umFormWidgetController.php:116
+msgid "Form Name:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:20
+msgid "User Meta Login"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:21
+msgid "Login Widget"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:79
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:177
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:20
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/loginForm.php:51
+msgid "Login"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umLoginWidgetController.php:103
+msgid "Hide this widget when viewing login page"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umPreloadsProController.php:126
+#, php-format
+msgid ""
+"There is a new version <strong>%1$s</strong> of <strong>%2$s</strong> "
+"available. <a href=\"%3$s\">update automatically.</a>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umPreloadsProController.php:143
+#, php-format
+msgid "<strong>ERROR</strong>: Invalid %s."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umPreloadsProController.php:146
+#, php-format
+msgid ""
+"<strong>ERROR</strong>: Incorrect Password. <a href=\"%s\" title=\"Password "
+"Lost and Found\">Lost your password</a>?"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umPreloadsProController.php:156
+#, php-format
+msgid "Please set your login page from <a href=\"%s\">here</a>. "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umPreloadsProController.php:156
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:34
+msgid ""
+"Login page will be used for login, lost password, reset password and email "
+"verification process."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:28
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:107
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:188
+msgid "Activate"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:31
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:107
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:193
+msgid "Deactivate"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:108
+msgid "Active"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:108
+msgid "Inactive"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:144
+msgid "<strong>ERROR:</strong> your account is not yet activated."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:187
+#, php-format
+msgid "New user %s registered on your site."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:192
+#, php-format
+msgid "User %s is already activated."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:198
+msgid "activated"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:200
+msgid "deactivated"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:203
+#, php-format
+msgid "%1$s users have been %2$s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/controllers/pro/umUserActivationController.php:205
+#, php-format
+msgid "User has been %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:153
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:257
+msgid "Server error. Upload directory is not writable."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:157
+msgid "No files were uploaded."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:163
+msgid "File is empty"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:167
+msgid "File is too large"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:179
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:277
+#, php-format
+msgid "File %1$s has an invalid extension, it should be one of %2$s."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:196
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:289
+msgid "Could not save uploaded file."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/helper/uploader.php:197
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:290
+msgid "The upload was cancelled, or server error encountered"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:22
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:86
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:294
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:24
+msgid "Username"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:23
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:33
+msgid "E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:24
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/phpunit/models/PluginFrameworkArrayTest.php:34
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:96
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:213
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/loginForm.php:18
+msgid "Password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:25
+msgid "Nicename"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:26
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:105
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:243
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:34
+msgid "Website"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:27
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:110
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:28
+msgid "Display Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:28
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:115
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:27
+msgid "Nickname"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:29
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:120
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:25
+msgid "First Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:30
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:125
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:26
+msgid "Last Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:31
+msgid "Description"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:32
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:135
+msgid "Registration Date"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:33
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:140
+msgid "Role"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:34
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:145
+msgid "Jabber"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:35
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:150
+msgid "Aim"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkArray.php:36
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:155
+msgid "Yim"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:22
+msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:36
+msgid "<strong>ERROR</strong>: Invalid username or e-mail."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:50
+msgid "Password reset is not allowed for this user"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:74
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:76
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:77
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:78
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:89
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:96
+msgid ""
+"The e-mail could not be sent. Possible reason: your host may have disabled "
+"the mail() function..."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:120
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:123
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkBuiltinFunction.php:128
+msgid "Invalid key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:17
+msgid "Security check"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:21
+msgid "Security check: admin only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:58
+msgid "No role for this site"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:185
+msgid "Cannot create a user with an empty login name and empty email"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:247
+msgid "No file upload field found!"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:254
+msgid "File is empty."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/models/PluginFrameworkWPSupport.php:260
+#, php-format
+msgid "File %s is too large."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/views/metaBox.php:4
+msgid "Click to Remove"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/framework/views/metaBox.php:12
+msgid "Click to toggle"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:16
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:420
+#, php-format
+msgid "Get pro version from %s to use this feature."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:17
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:421
+msgid "Please Wait..."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:20
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:424
+msgid "Upload"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:21
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:425
+msgid "Drop files here to upload"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:22
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:426
+msgid "Cancel"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:23
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:427
+msgid "Failed"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:24
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:428
+#, php-format
+msgid "%1$s has invalid extension. Only %2$s are allowed."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:25
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:429
+#, php-format
+msgid "%1$s is too large, maximum file size is %2$s."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:26
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:430
+#, php-format
+msgid "%s is empty, please select files again without it."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:29
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:433
+msgid "Too weak"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:30
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:434
+msgid "Weak password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:31
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:435
+msgid "Normal strength"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:32
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:436
+msgid "Strong password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:33
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:437
+msgid "Very strong password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:36
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:440
+msgid "* This field is required"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:37
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:441
+msgid "* Please select an option"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:38
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:442
+msgid "* This checkbox is required"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:39
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:443
+msgid "* Minimum "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:40
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:444
+msgid "* Maximum "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:41
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:445
+msgid " characters allowed"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:42
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:446
+msgid "* Minimum value is "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:43
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:447
+msgid "* Maximum value is "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:44
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:448
+msgid "* Date prior to "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:45
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:449
+msgid "* Date past "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:46
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:450
+msgid " options allowed"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:47
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:451
+msgid "* Please select "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:48
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:452
+msgid " options"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:49
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:453
+msgid "* Fields do not match"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:50
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:454
+msgid "* Invalid phone number"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:51
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:455
+msgid "* Invalid email address"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:52
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:456
+msgid "* Not a valid integer"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:53
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:457
+msgid "* Invalid floating decimal number"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:54
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:458
+msgid "* Invalid date, must be in YYYY-MM-DD format"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:55
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:459
+msgid "* Invalid time, must be in hh:mm:ss format"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:56
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:460
+msgid "* Invalid datetime, must be in YYYY-MM-DD hh:mm:ss format"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:57
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:461
+msgid "* Invalid IP address"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:58
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:462
+msgid "* Invalid URL"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:59
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:463
+msgid "* Numbers only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:60
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:464
+msgid "* Letters only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:61
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:465
+msgid "* No special characters allowed"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/helper/umLocalizeScript.php:62
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:466
+msgid "* This user is already taken"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:21
+msgid "Action type not set"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:23
+msgid "Form name not set"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:37
+msgid "No field to Update"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:88
+#, php-format
+msgid "%s field is required"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:95
+#, php-format
+msgid "%1$s: \"%2$s\" already taken"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:112
+msgid "No data to update"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:149
+msgid "User must be logged in to update profile"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umAjaxModel.php:190
+#, php-format
+msgid "%s already taken"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umMethods.php:49
+msgid "Please provide a name of action type."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umMethods.php:52
+msgid "Please provide a form name."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umMethods.php:55
+#, php-format
+msgid "Sorry. type=\"%s\" is not supported."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umMethods.php:66
+msgid "You do not have permission to access this page."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umMethods.php:69
+#, php-format
+msgid "You are already registered. See your <a href=\"%s\">profile</a>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umMethods.php:71
+msgid "User registration is currently not allowed."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:91
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:218
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:295
+msgid "Email"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:130
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:42
+msgid "Biographical Info"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:160
+msgid "Avatar"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:166
+msgid "New Blog"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:173
+msgid "Textbox"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:178
+msgid "Paragraph"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:183
+msgid "Rich Text"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:188
+msgid "Hidden Field"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:193
+msgid "Drop Down"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:198
+msgid "Checkbox"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:203
+msgid "Select One (radio)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:208
+msgid "Date / Time"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:223
+msgid "File Upload"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:228
+msgid "Image URL"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:233
+msgid "Phone Number"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:238
+msgid "Number"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:248
+msgid "Country"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:260
+msgid "Page Heading"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:265
+msgid "Section Heading"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:270
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:24
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:33
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:27
+msgid "HTML"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:275
+msgid "Captcha"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:296
+msgid "Username or Email"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:487
+msgid "Check your e-mail for the confirmation link."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:488
+msgid "Email not found"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:489
+msgid "Email is successfully verified."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:490
+msgid "Incorrect Captcha Code"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:491
+msgid "Invalid Key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:492
+msgid "Invalid Parameter"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:493
+msgid "Both username and email is required"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:494
+msgid "Login Successful"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:495
+msgid "User is not member of this site."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:496
+msgid "Your password has been reset."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:497
+msgid "The passwords do not match."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:498
+msgid "Profile successfully updated."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:499
+msgid "Registration successfully completed."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:500
+msgid ""
+"We have sent you a verification link to your email. Please verify your email "
+"by clicking the link and wait for admin approval."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:501
+msgid ""
+"We have sent you a verification link to your email. Please complete your "
+"registration by clicking the link."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:502
+msgid "User already activated"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportArray.php:503
+msgid "Please wait until an admin approve your account."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:32
+#, php-format
+msgid "<p><strong>Step 1.</strong> Create Field from User Meta %s page.</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:33
+#, php-format
+msgid ""
+"<p><strong>Step 2.</strong> Go to User Meta %s page. Choose a Form Name, "
+"drag and drop fields from right to left and save the form.</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:34
+msgid ""
+"<p><strong>Step 3.</strong> Write shortcode to your page or post. Shortcode "
+"(e.g.): &#91;user-meta type=\"profile\" form=\"your_form_name\"&#93;</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:35
+msgid "Visit Plugin Site"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:72
+msgid ""
+"<p><strong>&#91;user-meta type=\"type_name\" form=\"your_form_name\"&#93;</"
+"strong></p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:73
+msgid "<li><strong>type=\"profile\"</strong> for showing profile page.</li>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:74
+msgid "<li><strong>type=\"none\"</strong> for hiding update button.</li>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:75
+msgid ""
+"<li><strong>type=\"registration\"</strong> for showing registration page.</"
+"li>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:76
+msgid ""
+"<li><strong>type=\"both\"</strong> for showing profile page if user logged "
+"in, or showing registration page, if not user logged in.</li>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:77
+msgid "<li><strong>type=\"login\"</strong> for showing login page.</li>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:79
+msgid ""
+"<p>N.B. \"registration\", \"both\" and \"login\" is only supported in pro "
+"version.</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:80
+msgid ""
+"<p>Admin user can see all others frontend profile from User Administration "
+"screen. To enable this feature, go to User Meta &#62;&#62; Settings, select "
+"profile page from Profile Page Selection and enable right sided checkbox.</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:81
+msgid ""
+"<p>In Case of extra field, you need to define unique meta_key. That meta_key "
+"will be use to save extra data in usermeta table. Without defining meta_key, "
+"extra data won't save.</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportHtml.php:82
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/generalProSettings.php:11
+msgid "Read More"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/umSupportModel.php:17
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:17
+msgid "Form not found."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:98
+msgid "Successfully validated"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:99
+#, php-format
+msgid "Please purchase %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:100
+msgid "Invalid email or password."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:101
+msgid "Email not found."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:109
+msgid "Something went wrong"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:171
+msgid "Redirecting for upgrading to Pro version... "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:172
+msgid "if not redirecting,"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:172
+msgid "click here for upgrading to Pro version"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/enc/umProSupportModel.php:229
+#, php-format
+msgid ""
+"Please enter your license information to <a href=\"%s\">activate User Meta "
+"Pro</a>."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umAjaxProModel.php:57
+msgid "There is some problem while updating"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umAjaxProModel.php:64
+msgid "Successfully Saved."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umAjaxProModel.php:102
+msgid "Something went wrong. File not uploaded"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umAjaxProModel.php:115
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umAjaxProModel.php:137
+msgid "Nothing to import!"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umAjaxProModel.php:135
+msgid "Imported completed."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umSupportProModel.php:431
+#, php-format
+msgid "Congratulations! Your new site, %s, is almost ready."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umSupportProModel.php:432
+msgid ""
+"But, before you can start using your site, <strong>you must activate it</"
+"strong>."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umSupportProModel.php:433
+#, php-format
+msgid "Check your inbox at <strong>%s</strong> and click the link given."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umSupportProModel.php:434
+msgid ""
+"If you do not activate your site within two days, you will have to sign up "
+"again."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/models/pro/umSupportProModel.php:636
+msgid "Disable this notification"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:76
+msgid "Field Title"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:87
+msgid "Field Type"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:97
+msgid "Title Position"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:103
+msgid "Top"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:104
+msgid "Left"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:105
+msgid "Right"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:106
+msgid "Inline"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:107
+msgid "Hidden"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:112
+msgid "Field Description"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:120
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:40
+msgid "Meta Key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:129
+msgid "Default Value"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:137
+msgid "Field Options"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:146
+msgid "Required"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:151
+msgid "Admin Only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:156
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:176
+msgid "Non-Admin Only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:161
+msgid "Read Only for all user"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:166
+msgid "Read Only for non admin"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:171
+msgid "Unique"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:181
+msgid "Only on Registration Page"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:186
+msgid "Disable AJAX upload"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:191
+msgid "Hide default avatar"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:196
+msgid "Crop Image"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:201
+msgid "Line Break"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:208
+msgid "Role Selection Type"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:218
+msgid "Allowed Roles"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:231
+msgid "CSS Class"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:240
+msgid "CSS Style"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:248
+msgid "Field Size"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:257
+msgid "Field Height"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:266
+msgid "Max Char"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:277
+msgid "Force to change username"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:281
+msgid "Retype Email"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:285
+msgid "Retype Password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:289
+msgid "Show password strength meter"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:294
+msgid "Show Divider"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:299
+msgid "Use Rich Text"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:316
+msgid "Allowed Extension"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:325
+msgid "Type Selection"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:330
+msgid "Date"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:330
+msgid "Time"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:330
+msgid "Date and Time"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:334
+msgid "Save meta value by"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:339
+msgid "Country Code"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:339
+msgid "Country Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:343
+msgid "Maximum Number"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:351
+msgid "Minimum Number"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:359
+msgid "Max File Size"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:362
+msgid "(in KB. Default: 1024KB)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:368
+msgid "Image Width (px)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:371
+msgid "(For Image Only. e.g. 640)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:377
+msgid "Image Height (px)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:380
+msgid "(For Image Only. e.g. 480)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:386
+msgid "Image Size (px) width/height"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:389
+msgid "(Default 96)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:395
+msgid "reCaptcha Public Key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:403
+msgid "reCaptcha Private Key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:422
+msgid ""
+"By default, <strong>Required</strong> and <strong>Unique</strong> validation "
+"will be set with this field. <strong>Read Only</strong> will be set "
+"conditionally."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:428
+msgid ""
+"By default, <strong>Required</strong> and <strong>Unique</strong> validation "
+"will be set with this field."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:434
+msgid ""
+"<strong>Required</strong> validation will be set automatically when password "
+"field is being used by registration."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/field.php:528
+msgid "New Field"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:8
+msgid "Click field from right side panel for creating new field"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:15
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:37
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:14
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:36
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:87
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:119
+msgid "Save Changes"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:54
+msgid "WordPress Default Fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:55
+msgid "Extra Fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:56
+msgid "Formatting Fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:58
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:57
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:136
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/emailNotificationPage.php:21
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:159
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importExportPage.php:37
+msgid "User Meta Pro"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:59
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:55
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:134
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/emailNotificationPage.php:19
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:157
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importExportPage.php:35
+msgid "3 steps to getting started"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/fieldsEditorPage.php:60
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:58
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:137
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/emailNotificationPage.php:13
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/emailNotificationPage.php:22
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importExportPage.php:38
+msgid "Shortcode"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:11
+msgid "Form Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:16
+msgid "(Give a name to your form)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:45
+msgid "Fields in your form (Drag from available fields)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:46
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:10
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:86
+msgid "Available Fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:74
+msgid ""
+"Drag fields from right block to left block for make them available to your "
+"form."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:85
+msgid "Submit Button Title"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:87
+msgid "Keep blank for default value"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:93
+msgid "Submit Button Class"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:95
+msgid "Assign class to submit button"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:101
+msgid "Form Class"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:103
+msgid "Assign class to form tag"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:111
+msgid "Do not use AJAX submit"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/form.php:120
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:6
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/formsEditorPage.php:43
+msgid "New Form"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateField.php:143
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateField.php:163
+#, php-format
+msgid "Retype %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:20
+msgid "Fields not found."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:23
+msgid "Fields were saved incorrectly."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:147
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:108
+msgid "Previous"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:173
+msgid "Update"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/generateForm.php:175
+msgid "Register"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:19
+msgid "General"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:21
+msgid "Registration"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:22
+msgid "Redirection"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settingsPage.php:23
+msgid "Backend Profile"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:7
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:22
+msgid "From E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:15
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:13
+msgid "From Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:23
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:32
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:26
+msgid "Plain Text"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:28
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:37
+msgid "E-mail Format"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:36
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:46
+msgid "Subject"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:44
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:54
+msgid "Body"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/email/mailForm.php:52
+msgid "Disable Notification"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/fieldPro.php:78
+#, php-format
+msgid "Please provide reCaptcha public and private key from User Meta %s page"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:17
+msgid "Site registration has been disabled."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:26
+msgid "Site Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:26
+msgid "Site Domain"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:33
+msgid "Site Title "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:116
+msgid "Next"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/generateProField.php:177
+msgid "Please set public and private key from User Meta >> Settings Page"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:21
+msgid "This e-mail will be sent to new user after registration."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:22
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:43
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:63
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:75
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:87
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:100
+msgid "User Notification"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:24
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:32
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:52
+#, php-format
+msgid "Use placeholder %s if needed."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:29
+msgid "This e-mail will be sent to admin after new user registration."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:30
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:50
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:107
+msgid "Admin Notification"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:34
+msgid "User Registration E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:42
+msgid "This email will be sent to user after email verified."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:49
+msgid "This email will be sent to admin after user email verified."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:54
+msgid "After email verified"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:61
+msgid "This e-mail will be sent to user upon activation."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:66
+msgid "User Activation E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:73
+msgid "This e-mail will be sent to user upon deactivation."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:78
+msgid "User Deactivation E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:85
+msgid "This e-mail will be sent to user when requested for reset password."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:89
+msgid ""
+"Use placeholder %reset_password_link% or it will automatically included."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:91
+msgid "Lost Password E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:99
+msgid ""
+"This e-mail will be sent to user when they update their front-end profile."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:106
+msgid ""
+"This e-mail will be sent to admin when user update their front-end profile."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:110
+msgid "Profile Update E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:132
+msgid "Site Placeholder"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:141
+msgid "User Placeholder"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:150
+msgid "Custom Field"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:153
+msgid ""
+"Use those placeholders to email subject or body. Placeholder will be "
+"replaced with proper value."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/emailNotificationPage.php:155
+msgid "Placeholder"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:15
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:24
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/email/singleEmailForm.php:39
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:38
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:46
+msgid "(Leave blank to use default)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:9
+msgid "Fields for export (Drag from available fields)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:47
+msgid "Drag all fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:60
+msgid "Exclude Roles"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:70
+msgid "Start Date"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:78
+msgid "End Date"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:86
+msgid "Order By"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:93
+msgid "Order"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:105
+msgid "Save Only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:113
+msgid "Export Only"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:121
+msgid "Save & Export"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:128
+msgid "Remove"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportForm.php:140
+#, php-format
+msgid "User Export (%s)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:11
+msgid "Export UMP"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:14
+msgid "Fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:21
+msgid "Forms"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:22
+msgid "Email Notifications"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:23
+msgid "User Export Templates"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:37
+msgid "Export"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:48
+msgid "Import UMP"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:49
+msgid "Upload exported txt file to import."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/exportImportUm.php:57
+msgid "Export & Import User Meta Pro"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importExportPage.php:9
+msgid "User Import & Export"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importExportPage.php:30
+msgid "New User Export Template"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep1.php:8
+msgid "Upload the <strong>CSV</strong> file only."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep1.php:15
+msgid "First row of CSV file will treat as Field Name."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep1.php:16
+msgid ""
+"Field will separate with comma (,) and Enclosed with the double quotation "
+"(\" \")."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep1.php:18
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:107
+msgid "User Import"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:16
+msgid "Identify Uniquely"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:22
+msgid "By Email"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:23
+msgid "By Username"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:24
+msgid "By Both Email & Username"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:30
+msgid "CSV Header"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:31
+msgid "Assigning Field"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:33
+msgid "Sample Data"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:44
+msgid "Field Name"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:62
+msgid "User Role :"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:72
+msgid "Overwrite existing users."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:80
+msgid "Send email to new user."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:89
+#, php-format
+msgid " Add custom field to %s (if not already added)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:96
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:89
+msgid "Import"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:104
+msgid ""
+"Username will accept only alphanumeric characters plus these: _, space, ., "
+"-, *, and @. All other characters will replace with null."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:105
+msgid ""
+"In case of new user, If password field not set then user will get the "
+"password by email."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep2.php:110
+msgid "User Import Status"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep3.php:20
+msgid "Import completed."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importStep3.php:24
+msgid "Read: %1$S, Created: %2$s, Updated: %3$s, Skipped: %4$s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:23
+msgid "Import Fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:28
+msgid "Replace all existing fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:29
+msgid "Add only new fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:30
+msgid "Do not import any fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:37
+msgid "Import Forms"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:42
+msgid "Replace all existing forms"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:43
+msgid "Add only new forms"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:44
+msgid "Do not import any forms"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:51
+msgid "Import Email Notifications"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:56
+msgid "Replace all existing email templates"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:57
+msgid "Do not import any email template"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:64
+msgid "Import user export template"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:69
+msgid "Replace all existing export templates"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:70
+msgid "Add only new export template"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:71
+msgid "Do not import any export template"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:78
+msgid "Import Settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:83
+msgid "Replace all existing UMP settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/exportImport/importUmStep2.php:84
+msgid "Do not import any settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/loginForm.php:26
+msgid "Remember Me"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/lostPasswordForm.php:9
+msgid "Lost your password?"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/lostPasswordForm.php:15
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/lostPasswordForm.php:21
+msgid "Username or E-mail"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/lostPasswordForm.php:32
+msgid "Get New Password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/resetPasswordForm.php:8
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/resetPasswordForm.php:33
+msgid "Reset Password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/resetPasswordForm.php:9
+msgid "Enter your new password below."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/resetPasswordForm.php:15
+msgid "New password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/login/resetPasswordForm.php:23
+msgid "Confirm new password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:15
+msgid "Personal Options Heading"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:16
+msgid "Visual Editor"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:17
+msgid "Admin Color Scheme"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:18
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:19
+msgid "Toolbar"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:23
+msgid "Name Heading"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:32
+msgid "Contact Info Heading"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:35
+msgid "AIM"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:36
+msgid "Yahoo IM"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:37
+msgid "Jabber / Google Talk"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:41
+msgid "About Yourself Heading"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:43
+msgid "New Password"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:47
+msgid "Hide WordPress default fields"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:48
+msgid ""
+"Select fields from below, which you need to hide from backend profile page"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:83
+msgid "Extra fields in backend profile"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:84
+msgid ""
+"Add extra fields to backend profile. drag from available fields block to "
+"backend profile block"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/backendProfile.php:85
+msgid "Fields in backend profile (Drag from available fields)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/generalProSettings.php:9
+msgid "reCAPTCHA Settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/generalProSettings.php:11
+msgid ""
+"reCAPTCHA is a free CAPTCHA service that helps to digitize books, newspapers "
+"and old time radio shows."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/generalProSettings.php:15
+msgid "reCAPTCHA Public Key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/generalProSettings.php:23
+msgid "reCAPTCHA Private Key"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/generalProSettings.php:29
+msgid ""
+"<p>User Meta plugin use reCAPTCHA as Captcha field. reCAPTCHA Public Key and "
+"reCAPTCHA Private Key are required for using Captcha validation. Get those "
+"key for free. <a href='http://www.google.com/recaptcha/whyrecaptcha' "
+"target='_blank'>Sign up now</a>.</p>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:13
+msgid "User login by"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:25
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:30
+msgid "Login Page"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:33
+#, php-format
+msgid "Login page should contain shortcode: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:36
+#, php-format
+msgid "Disable default login url (%s)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:42
+#, php-format
+msgid "Disable wp-login.php and redirect to front-end login page %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:50
+msgid "Login Form"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:64
+msgid "Disable lost password feature"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:70
+msgid "Disable AJAX submit"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:80
+msgid "Logged in user profile settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:105
+msgid "Multisite"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/loginSettings.php:109
+msgid "Prevent user login if user is not member of current site."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/miscSettings.php:7
+msgid "Value Separator"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:10
+msgid "User Redirection Settings"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:12
+msgid "Disable redirection feature"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:18
+msgid "Set redirection on login, logout and registration"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:25
+msgid "Default (<em>Use default redirection</em>)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:26
+msgid "Referer (<em>Send the user back to the page where they comes from</em>)"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:27
+msgid "Home"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:29
+msgid "Dashboard"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:31
+msgid "<em> (Include http:// with url)</em>"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:56
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:74
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:91
+msgid "Custom URL:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:64
+msgid "Login Redirection"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:81
+msgid "Logout Redirection "
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/redirectionSettings.php:98
+msgid "Registration Redirection"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:9
+msgid "User auto activation."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:9
+msgid "User will be activated automatically after registration"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:10
+msgid "Need email verification."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:10
+msgid ""
+"A verification link will be sent to user email. User must verify the link to "
+"activate their account"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:11
+msgid "Need admin approval."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:11
+msgid "Admin needs to approve the new user"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:12
+msgid "Need both email verification and admin approval."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:12
+msgid ""
+"A verification link will be sent to user email. User must verify the link to "
+"activate their account and an admin needs to approve the account"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:17
+msgid "User Activation"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:31
+msgid "Auto login after registration"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:34
+msgid "Only supported if \"User auto activation\" is selected."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:39
+msgid "Multisite Registration"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/pro/settings/registrationSettings.php:43
+msgid ""
+"Allow user registration if user already exists in other sites under network."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:10
+#, php-format
+msgid "Version: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:13
+msgid "Account Details"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:14
+#, php-format
+msgid "Enter your email and password for %s to activate your pro version."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:19
+msgid "Email:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:27
+msgid "Password:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:36
+msgid "Save"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:46
+msgid "Enter email and password to activate Pro version"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:48
+msgid "Enter email and password for upgrade to pro version"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:55
+msgid "Click for upgrade to Pro"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/activationForm.php:64
+msgid "User Meta Pro Account Information"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/backendProfile.php:4
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/loginSettings.php:4
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/miscSettings.php:4
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/redirectionSettings.php:4
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/registrationSettings.php:4
+#, php-format
+msgid "This feature is only supported in Pro version. Get %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:8
+msgid "Profile Page Selection"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:17
+#, php-format
+msgid "Show profile link to <a href=\"%s\">Users<a> administration page."
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:19
+#, php-format
+msgid "Profile page should contain shortcode like: %s"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:30
+msgid "E-mail Sender Setting"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:32
+msgid "Set default email sender information"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:35
+msgid "From Name:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:43
+msgid "From Email:"
+msgstr ""
+
+#: /Users/saikat/www/wp/wp-content/plugins/user-meta/views/settings/generalSettings.php:51
+msgid "Email Format:"
+msgstr ""
